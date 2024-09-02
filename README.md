@@ -1,2 +1,9 @@
 # Linear-Regression
-linear regression model
+Implementing linear regression using Scikitlearn(python library).
+
+# Requirements
+pandas
+numpy
+seaborn
+
+
